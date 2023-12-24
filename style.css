@@ -14,8 +14,8 @@ body{
     align-items: center;
     justify-content: center;
     background-color: #f4f4f4;
-    background-image: url(https://i.pinimg.com/originals/0b/c3/5b/0bc35bec60d5d5c300725ff81637a51d.jpg);
-    background-size: 100%;
+    /* background-image: url(https://i.pinimg.com/originals/0b/c3/5b/0bc35bec60d5d5c300725ff81637a51d.jpg);
+    background-size: 100%; */
 }
 .profile-card{
     display: flex;
